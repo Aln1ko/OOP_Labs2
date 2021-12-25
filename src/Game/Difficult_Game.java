@@ -1,8 +1,8 @@
 package Game;
 
-public class difficult_Game
+public class Difficult_Game
 {
-    public void fill_difficult(character hero, int diff)
+    public void fill_difficult(Character hero, int diff)
     {
         if (diff == 1)
         {

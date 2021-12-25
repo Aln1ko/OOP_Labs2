@@ -1,6 +1,6 @@
 package Game;
 
-public class ivents
+public class Ivents
 {
 
 }
